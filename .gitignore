@@ -4,3 +4,4 @@ build
 credentials.json
 key.pem
 token.json
+test.json
