@@ -1,0 +1,25 @@
+{
+  "projectName": "ostelco",
+  "github": {
+    "username": "mohamed-morsy-crossover",
+    "password": "8faee3744d67a5c96ce14659a8bb88c5ecb18049",
+    "repository": "ostelco-core",
+    "organization": "trilogy-group",
+    "branch": "master"
+  },
+  "structurizr": {
+    "workSpaceId": 56100,
+    "apiKey": "f367ca6f-6574-4809-ad07-e1be8c62fbea",
+    "secret": "b7c4e36a-25d2-4e54-8786-4767d4e51229"
+  },
+  "excludedPaths": [
+    {
+      "path": "ostelco-core\\imei-lookup\\src\\test",
+      "note": "Testing folder"
+    },
+    {
+      "path": "ostelco-core\\houston",
+      "note": "Not in a use"
+    }
+  ]
+}
