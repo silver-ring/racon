@@ -3,3 +3,4 @@ build
 .idea
 credentials.json
 key.pem
+token.json
